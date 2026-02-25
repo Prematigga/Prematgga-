@@ -6,5 +6,5 @@ Skills: Excel, SQL, Power BI, Python
 ## Project
 Super Store  Sales Dashboard (Power BI) 
 
-## cONTACT
+## CONTACT
 Email: prematigga3@gmail.com
